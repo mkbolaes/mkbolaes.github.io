@@ -1,5 +1,7 @@
 body {
  background-image: url("sunset-gradient.jpeg");
+ background-size: cover;
+ background-repeat: no-repeat;
  background-color: #cccccc;
  background-position: 50% 28%;
 }
