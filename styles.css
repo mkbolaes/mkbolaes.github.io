@@ -1,11 +1,4 @@
 body {
-  background-color: powderblue;
-}
-h1 {
-  color: blue;
-}
-p {
-  color: red;
-  border: 2px solid powderblue;
-  padding: 30px;
+ background-image: url("dave_hoefler_sunset_gradient.jpeg");
+ background-color: #000000;
 }
